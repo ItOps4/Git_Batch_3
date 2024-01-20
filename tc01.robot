@@ -5,3 +5,4 @@ Library    SeleniumLibrary
 tc01
     Open Browser
     Maximize Browser Window
+    Capture Page Screenshot
