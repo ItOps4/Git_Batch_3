@@ -6,4 +6,4 @@ tc01
     Open Browser
     Maximize Browser Window
     Capture Page Screenshot
-    Log    harish
+    Log    harish1
